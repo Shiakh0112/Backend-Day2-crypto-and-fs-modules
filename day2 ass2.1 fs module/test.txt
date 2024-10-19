@@ -1,0 +1,3 @@
+=>start for fs modules 
+  -readFile
+ Content appended to the file test.txt 
